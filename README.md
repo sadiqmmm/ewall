@@ -1,3 +1,3 @@
-js-ebook
+Ewall
 ========
-Ebook with Quizzes.
+Just a demo app
