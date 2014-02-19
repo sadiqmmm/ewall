@@ -699,7 +699,7 @@ $(document).ready( function() {
          var ans4 = $('#quiz10-f1q8_max_uterine').is(":checked");
          var ans5 = $('#quiz10-f1q8_support_maternal').is(":checked");
  
-        if( (ans1) && (ans2) && (ans3) && (!ans4) && (ans5) ) {
+        if( (ans1) && (ans2) && (!ans3) && (!ans4) && (ans5) ) {
             //console.log("if" + ans1 + ans2 + ans3 + ans4 + ans5);
             return 1;
             
