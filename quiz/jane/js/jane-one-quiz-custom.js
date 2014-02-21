@@ -86,7 +86,8 @@ $(document).ready( function() {
         $("#see-video-jq20").hide();     
  
 
-        $("html").animate({ scrollTop: $('#quiz-case-study-one').offset().top -60}, 600);
+        $("html, body").animate({ scrollTop: $('#quiz-case-study-one').offset().top -60}, 600);
+         
         event.preventDefault(); // Prevent from default submit button behaviour
 
         // Will get the newly selected value
