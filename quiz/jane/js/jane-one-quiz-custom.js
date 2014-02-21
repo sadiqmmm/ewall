@@ -479,7 +479,7 @@ $(document).ready( function() {
         $("#see-video-jq22").hide(); 
  
 
-        $("html").animate({ scrollTop: $('#quiz-result-message2').offset().top -60}, 600);
+        $("html, body").animate({ scrollTop: $('#quiz-result-message2').offset().top -60}, 600);
         event.preventDefault(); // Prevent from default submit button behaviour
 
     // will select the value
@@ -537,150 +537,150 @@ $(document).ready( function() {
          
         $('#result-jq1').on('click', '.show', function() {
             $("#see-video-jq1").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq1').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq1').offset().top -60}, 600);
                      return false;
             });
         });
 
         $('#result-jq2').on('click', '.show', function() {
             $("#see-video-jq2").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq2').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq2').offset().top -60}, 600);
                      return false;
             });
         });
 
         $('#result-jq3').on('click', '.show', function() {
             $("#see-video-jq3").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq3').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq3').offset().top -60}, 600);
                      return false;
             });
         });
 
         $('#result-jq4').on('click', '.show', function() {
             $("#see-video-jq4").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq4').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq4').offset().top -60}, 600);
                      return false;
             });
         });
 
         $('#result-jq5').on('click', '.show', function() {
             $("#see-video-jq5").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq5').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq5').offset().top -60}, 600);
                      return false;
             });
         });
         $('#result-jq6').on('click', '.show', function() {
             $("#see-video-jq6").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq6').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq6').offset().top -60}, 600);
                      return false;
             });
         });
         $('#result-jq7').on('click', '.show', function() {
             $("#see-video-jq7").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq7').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq7').offset().top -60}, 600);
                      return false;
             });
         });
         $('#result-jq8').on('click', '.show', function() {
             $("#see-video-jq8").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq8').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq8').offset().top -60}, 600);
                      return false;
             });
         });
         // temp start
         $('#result-jq9').on('click', '.show', function() {
             $("#see-video-jq9").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq9').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq9').offset().top -60}, 600);
                      return false;
             });
         }); 
         $('#result-jq10').on('click', '.show', function() {
             $("#see-video-jq10").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq10').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq10').offset().top -60}, 600);
                      return false;
             });
         }); 
 
         $('#result-jq11').on('click', '.show', function() {
             $("#see-video-jq11").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq11').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq11').offset().top -60}, 600);
                      return false;
             });
         });
 
         $('#result-jq12').on('click', '.show', function() {
             $("#see-video-jq12").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq12').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq12').offset().top -60}, 600);
                      return false;
             });
         });
 
         $('#result-jq13').on('click', '.show', function() {
             $("#see-video-jq13").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq13').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq13').offset().top -60}, 600);
                      return false;
             });
         });
 
         $('#result-jq14').on('click', '.show', function() {
             $("#see-video-jq14").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq14').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq14').offset().top -60}, 600);
                      return false;
             });
         });
 
         $('#result-jq15').on('click', '.show', function() {
             $("#see-video-jq15").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq15').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq15').offset().top -60}, 600);
                      return false;
             });
         });
 
         $('#result-jq16').on('click', '.show', function() {
             $("#see-video-jq16").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq16').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq16').offset().top -60}, 600);
                      return false;
             });
         });
 
         $('#result-jq17').on('click', '.show', function() {
             $("#see-video-jq17").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq17').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq17').offset().top -60}, 600);
                      return false;
             });
         });
 
         $('#result-jq18').on('click', '.show', function() {
             $("#see-video-jq18").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq18').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq18').offset().top -60}, 600);
                      return false;
             });
         });
 
         $('#result-jq19').on('click', '.show', function() {
             $("#see-video-jq19").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq19').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq19').offset().top -60}, 600);
                      return false;
             });
         });
 
         $('#result-jq20').on('click', '.show', function() {
             $("#see-video-jq20").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq20').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq20').offset().top -60}, 600);
                      return false;
             });
         });
 
         $('#result-jq21').on('click', '.show', function() {
             $("#see-video-jq21").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq21').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq21').offset().top -60}, 600);
                      return false;
             });
         });
 
         $('#result-jq22').on('click', '.show', function() {
             $("#see-video-jq22").slideToggle('slow',function(){
-                    $("html").animate({ scrollTop: $('#result-jq22').offset().top -60}, 600);
+                    $("html, body").animate({ scrollTop: $('#result-jq22').offset().top -60}, 600);
                      return false;
             });
         });     
